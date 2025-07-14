@@ -24,11 +24,11 @@
 - Валидация номера телефона и возраста
 - Подтверждение введенных данных перед сохранением
 
-### 2. Структура базы данных после полного цикла взаимодействий: вставка, обновление и удаление данных
+### 2. Структура базы данных после полного цикла взаимодействий: вставка, обновление и удаление данных(порядок условный)
 
-![Структура БД 1](https://github.com/user-attachments/assets/4496081f-e662-4f2f-a1f6-5a041cd5b040)
-![Структура БД 2](https://github.com/user-attachments/assets/0a0afc3d-bca4-43f5-82ba-755985c1080f)
-![Структура БД 3](https://github.com/user-attachments/assets/7e4cc931-654d-4e2b-8ddb-0b2217010467)
+![Структура БД 1](https://github.com/user-attachments/assets/0a0afc3d-bca4-43f5-82ba-755985c1080f)
+![Структура БД 2](https://github.com/user-attachments/assets/7e4cc931-654d-4e2b-8ddb-0b2217010467)
+![Структура БД 3](https://github.com/user-attachments/assets/4496081f-e662-4f2f-a1f6-5a041cd5b040) 
 
 - Поля таблицы users в PostgreSQL:
   - `tg_id` - уникальный идентификатор Telegram
